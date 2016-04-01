@@ -4,4 +4,5 @@
 * [通用接口](chapter1.md)
    * [获取access_token](access_token.md)
 * 用户信息
+   * 获取企业用户列表
 
