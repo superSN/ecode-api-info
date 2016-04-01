@@ -18,6 +18,7 @@ access_token是公众号的全局唯一票据，调用各接口时都需使用ac
 
 ### 接口返回说明
 调用成功，会返回下述JSON数据包：
+
 ```{"access_token":"ACCESS_TOKEN","expires_in":7200}
 ```
 
