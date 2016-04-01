@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* 更新日志
 * [通用接口](chapter1.md)
    * [获取access_token](access_token.md)
 * 用户信息
@@ -12,5 +13,4 @@
    * [获取经销商列表](获取经销商列表.md)
 * 品牌产品管理
    * 品牌添加或修改
-* 更新日志
 
