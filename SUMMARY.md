@@ -18,4 +18,5 @@
    * [获取产品信息列表](huo_qu_chan_pin_xin_xi_lie_biao.md)
 * 防伪相关
    * [上传防伪码绑定信息](shang_chuan_fang_wei_ma_bang_ding_xin_xi.md)
+   * 查询防伪码绑定信息
 
