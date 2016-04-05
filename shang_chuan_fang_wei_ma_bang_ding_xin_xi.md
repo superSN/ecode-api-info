@@ -14,13 +14,12 @@ http://api.1code.cc/FangWei/fwInfo
 | fwCode | 是 | string | 防伪标签的20位防伪编码 |
 | brandId | 否 | string | 品牌ID，使用E码互联返回的ID |
 | productId | 否 | string | 产品ID，使用E码互联返回的ID |
-| brandId | 否 | string | 品牌ID，使用E码互联返回的ID |
-| brandId | 否 | string | 品牌ID，使用E码互联返回的ID |
-| brandId | 否 | string | 品牌ID，使用E码互联返回的ID |
+| dealerId | 否 | string | 客户ID，使用E码互联返回的ID |
+| wlCode | 否 | string | 18位物流码 |
+| order_no | 否 | string | 订单编号 |
 
 ##返回说明：
 | 参数 | 类型 | 说明 |
 | -- | -- | -- |
 | status | int | 调用成功时为1，小于0时为错误码 |
 | message | string | 当status<0时返回，错误提示内容 |
-| value | string | 当添加时返回，品牌全局唯一标识名原样返回 |
