@@ -11,7 +11,7 @@ http://api.1code.cc/FangWei/wlInfo
 | -- | -- | -- | -- |
 | appid | 是 | string |第三方用户唯一凭证 |
 | access_token | 是 | string | 授权Access_token，通过通用接口获取 | 
-| wlCode | 是 | string | 防伪标签的20位防伪编码 |
+| wlCode | 是 | string | 防伪标签的18位物流码信息 |
 
 
 ##返回说明：
