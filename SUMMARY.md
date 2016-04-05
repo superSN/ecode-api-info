@@ -14,5 +14,5 @@
 * 品牌产品管理
    * [品牌添加或修改](pin_pai_tian_jia_huo_xiu_gai.md)
    * [获取品牌列表](huo_qu_pin_pai_lie_biao.md)
-   * 产品添加或修改
+   * [产品添加或修改](chan_pin_tian_jia_huo_xiu_gai.md)
 
