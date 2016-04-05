@@ -17,4 +17,5 @@
    * [产品添加或修改](chan_pin_tian_jia_huo_xiu_gai.md)
    * [获取产品信息列表](huo_qu_chan_pin_xin_xi_lie_biao.md)
 * 防伪相关
+   * 上传防伪码绑定信息
 
